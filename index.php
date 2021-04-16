@@ -31,7 +31,7 @@
             <button type="submit" name="register" class="btn">Register</button>
         </div>
         <p>
-            Do you have an existing Account? <a href="login.php">Sign in</a>
+            Do you have an existin' Account? <a href="login.php">Sign in</a>
         </p>
     </form>
 
